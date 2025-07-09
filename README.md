@@ -1,16 +1,41 @@
-## Hi there 👋
+# Clenaks
 
-<!--
-**Clenaks/Clenaks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to **Clenaks**, a professional website showcasing exclusive promotions and bonuses from Melbet.
 
-Here are some ideas to get you started:
+## 🌟 About the Site
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Clenaks is a promotional hub built to highlight the best Melbet offers, including welcome bonuses, cashback perks, and loyalty rewards. The site features:
+
+- A modern, responsive design
+- Informative product pages
+- Contact form (mailto)
+- Easy navigation
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- Google Fonts (Poppins)
+- Hosted via GitHub Pages
+
+## 📂 Project Structure
+
+```
+📁 clenaks/
+├── index.html        # Home page
+├── about.html        # About us
+├── products.html     # Promotions page
+├── contact.html      # Contact form
+├── style.css         # Site-wide styling
+└── README.md         # This file
+```
+
+## 🔗 Live Website
+
+[Visit the Clenaks Website](https://<your-github-username>.github.io/clenaks)
+
+## 📬 Contact
+
+For partnership inquiries or support, email us at: **clenaks@example.com**
+
+---
