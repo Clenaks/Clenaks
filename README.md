@@ -32,7 +32,7 @@ Clenaks is a promotional hub built to highlight the best Melbet offers, includin
 
 ## 🔗 Live Website
 
-[Visit the Clenaks Website](https://<your-github-username>.github.io/clenaks)
+[Visit the Clenaks Website](https://clenaks.github.io/clenaks)
 
 ## 📬 Contact
 
